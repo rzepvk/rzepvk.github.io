@@ -1,0 +1,123 @@
+[
+    {
+        "id":1,
+        "isbn":"97883-2674-2026",
+        "idOdrabiamy":13007,
+        "name":"MATeMAtyka 3. Zakres podstawowy i rozszerzony",
+        "img":"",
+        "num":3,
+        "pub":"Nowa era",
+        "yr":2021
+    },
+    {
+        "id":2,
+        "isbn":"97883-2674-2392",
+        "idOdrabiamy":13116,
+        "name":"Ponad słowami 3. Zakres podstawowy i rozszerzony cz. 2",
+        "img":"",
+        "num":3,
+        "pub":"Nowa era",
+        "yr":2021
+    },
+    {
+        "id":3,
+        "isbn":"97883-7882-7160",
+        "idOdrabiamy":12576,
+        "name":"Focus 4. Second Edition. Student's Book",
+        "img":"",
+        "num":4,
+        "pub":"Inne",
+        "yr":2020
+    },
+    {
+        "id":4,
+        "isbn":"97883-7882-7559",
+        "idOdrabiamy":12577,
+        "name":"Focus 4. Second Edition. Workbook",
+        "img":"",
+        "num":4,
+        "pub":"Inne",
+        "yr":2020
+    },
+    {
+        "id":5,
+        "isbn":"97883-9552-8873",
+        "idOdrabiamy":12731,
+        "name":"Descubre 3",
+        "img":"",
+        "num":3,
+        "pub":"Inne",
+        "yr":2020
+    },
+    {
+        "id":6,
+        "isbn":"97883-0219-5495",
+        "idOdrabiamy":13096,
+        "name":"Fizyka 3. Zakres podstawowy. Wydanie 2021",
+        "img":"",
+        "num":3,
+        "pub":"WSiP",
+        "yr":2021
+    },
+    {
+        "id":7,
+        "isbn":"97883-0221-9566",
+        "idOdrabiamy":14883,
+        "name":"Chemia 3. Zakres podstawowy. Wydanie 2024",
+        "img":"",
+        "num":3,
+        "pub":"WSiP",
+        "yr":2024
+    },
+    {
+        "id":8,
+        "isbn":"97883-0221-1232",
+        "idOdrabiamy":13978,
+        "name":"Chemia 2. Zakres podstawowy. Wydanie 2023",
+        "img":"",
+        "num":3,
+        "pub":"WSiP",
+        "yr":2023
+    },
+    {
+        "id":9,
+        "isbn":"97883-2674-2330",
+        "idOdrabiamy":13105,
+        "name":"Oblicza geografii 3. Karty pracy ucznia. Zakres podstawowy",
+        "img":"",
+        "num":3,
+        "pub":"Nowa era",
+        "yr":2021
+    },
+    {
+        "id":10,
+        "isbn":"97883-2674-2163",
+        "idOdrabiamy":12997,
+        "name":"Biologia na czasie 3. Zakres podstawowy",
+        "img":"",
+        "num":3,
+        "pub":"Nowa era",
+        "yr":2021
+    },
+    {
+        "id":11,
+        "isbn":"97883-2674-2361",
+        "idOdrabiamy":13091,
+        "name":"Biologia na czasie 3. Karty pracy ucznia. Zakres podstawowy",
+        "img":"",
+        "num":3,
+        "pub":"Nowa era",
+        "yr":2021
+    },
+    {
+        "id":12,
+        "isbn":"",
+        "idOdrabiamy":null,
+        "name":"",
+        "img":"",
+        "num":3,
+        "pub":"Nowa era|WSiP|Inne",
+        "yr":null
+    }
+
+]

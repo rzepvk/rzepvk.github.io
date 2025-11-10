@@ -1,0 +1,75 @@
+.hide{
+    display: none !important;
+}
+
+body{
+    margin: 0;
+    background-color: #f1f2f2;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+div.book{
+    width: 600px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+
+    border-radius: 25px;
+}
+div.book:hover{
+    background-color: #e3e8ff;
+}
+
+div.main{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 25px;
+}
+div.main:hover{
+    background-color: #cdd6ff;
+}
+div.book .main img{
+    border: 1px red solid;
+    width: 50px;
+    height: 50px;
+    
+}
+div.book .main .info{
+    margin: 0 30px;
+}
+div.book .main .info h3{
+    margin-top: 0;
+}
+div.book .main .info .dane{
+}
+div.book .main .info .dane span:first-child{
+    margin-right: 30px;
+}
+div.book .main div.icon{
+    margin-left: auto;
+    padding: 5px;
+    cursor: pointer;
+}
+div.book .main div.icon span{
+    transition: transform 0.2s ease;
+}
+div.book .drop{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    margin: 0;
+}
+
+div.book .show{
+    transform: rotate(180deg)
+}
+
+@keyframes rot{
+    from {rotate: 0;}
+    to {rotate: 180;}
+}
